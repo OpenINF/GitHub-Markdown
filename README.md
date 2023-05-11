@@ -1,17 +1,21 @@
 ## GitHub Markdown
 
-OpenINF additions to GitHub Markdown.
+OpenINF additions to GitHub Markdown
+
+<br /><br />
 
 ### Badges
 
 <br />
 
-One can use these additional badges to give your Markdown more structure and
+One can use these additional badges to give Markdown more structure and
 statement. The badges are always `21px` high and `100px` wide. The SVG consists
 of the symbol and the text behind it. One can find the Octicon symbols
-[here](https://primer.style/octicons/). The font stack used can be found
+[here](https://primer.style/octicons). The font stack used can be found
 [here](https://primer.style/design/foundations/typography#font-stack). The
 badges adapt to the selected theme.
+
+<br /><br />
 
 #### Info Badge
 
