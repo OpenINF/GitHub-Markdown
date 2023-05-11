@@ -6,10 +6,10 @@ Here are a few markdown additions for GitHub Markdown.
 
 <br />
 
-You can use these additional badges to give your makrdown more structure and
+One can use these additional badges to give your Markdown more structure and
 statement. The badges are always `21px` high and `100px` wide. The SVG consists
-of the symbol and the text behind it. You can find the Octicon symbols
-[here](https://primer.style/octicons/). The fontstack I used can be found
+of the symbol and the text behind it. One can find the Octicon symbols
+[here](https://primer.style/octicons/). The font stack used can be found
 [here](https://primer.style/design/foundations/typography#font-stack). The
 badges adapt to the selected theme.
 
@@ -178,12 +178,12 @@ Danger
 
 <br />
 
-This is how you can add your own tooltips or hover texts. You can create a
-tooltip by using two `##` instead of an actual link. For some reason, Markdown
+This section details how one can add tooltips or hover texts. One can create a
+tooltip using two `##` instead of an actual link. For some reason, Markdown
 links that come directly after a bracket are sometimes invisible within a table.
-You can avoid this by linking directly to your file (For example insted of `##`
-use `README.md##`). The goal is to have no click effect on the tooltips. They
-should only look like a link so that you can more easily find the tooltip.
+You can avoid this by linking directly to your file (e.g., instead of `##`, use
+`README.md##`). The goal is to have no click effect on the tooltips. They should
+only look like a link so you can more easily find the tooltip.
 
 <br /><br />
 
