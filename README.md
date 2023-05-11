@@ -1,6 +1,6 @@
 ## GitHub Markdown
 
-Here are a few markdown additions for GitHub Markdown.
+OpenINF additions to GitHub Markdown.
 
 ### Badges
 
