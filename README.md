@@ -182,12 +182,12 @@ Danger
 
 <br />
 
-This section details how one can add tooltips or hover texts. One can create a
-tooltip using two `##` instead of an actual link. For some reason, Markdown
-links that come directly after a bracket are sometimes invisible within a table.
-You can avoid this by linking directly to your file (e.g., instead of `##`, use
-`README.md##`). The goal is to have no click effect on the tooltips. They should
-only look like a link so you can more easily find the tooltip.
+This section explains the process of adding tooltips or hover texts. Instead of
+using a link, one can use two consecutive hash marks (i.e., `##`) to create a
+tooltip. However, using this method may cause Markdown links to become invisible
+when placed directly after a bracket within a table. To avoid this, linking
+directly to the file is recommended (e.g., `README.md##`). The goal is for the
+tooltips to appear as links without being clickable, making them easier to find.
 
 <br /><br />
 
