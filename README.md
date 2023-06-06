@@ -209,7 +209,7 @@ tooltips to appear as links without being clickable, making them easier to find.
 
 <br />
 
-You can also create linebreaks inside your tooltip by using the `&#10;` HTML
+One can also create linebreaks inside tooltips by using the `&#10;` HTML
 sequence.
 
 ```markdown
