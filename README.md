@@ -1,6 +1,9 @@
+<!-- markdownlint-disable-next-line line-length -->
+<a href="##"><img src="https://raw.githubusercontent.com/OpenINF/openinf.github.io/live/assets/img/svg/logogram-color.svg?sanitize=true" alt="OpenINF logo" title="OpenINF" align="right" height="96" width="96" /></a>
+
 ## GitHub Markdown
 
-OpenINF additions to GitHub Markdown
+> OpenINF additions to GitHub Markdown
 
 <br /><br />
 
