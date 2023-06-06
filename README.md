@@ -24,12 +24,11 @@ badges adapt to the selected theme.
 
 <br />
 
-```markdown
+```html
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/light-theme/info.svg">
   <img alt="Info" src="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/dark-theme/info.svg">
 </picture><br />
-
 Info
 ```
 
@@ -45,7 +44,7 @@ Info
 
 <br />
 
-```markdown
+```html
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/light-theme/example.svg">
   <img alt="Example" src="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/dark-theme/example.svg">
@@ -65,7 +64,7 @@ Example
 
 <br />
 
-```markdown
+```html
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/light-theme/tip.svg">
   <img alt="Tip" src="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/dark-theme/tip.svg">
@@ -85,7 +84,7 @@ Tip
 
 <br />
 
-```markdown
+```html
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/light-theme/issue.svg">
   <img alt="Issue" src="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/dark-theme/issue.svg">
@@ -105,7 +104,7 @@ Issue
 
 <br />
 
-```markdown
+```html
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/light-theme/success.svg">
   <img alt="Success" src="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/dark-theme/success.svg">
@@ -125,7 +124,7 @@ Success
 
 <br />
 
-```markdown
+```html
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/light-theme/warning.svg">
   <img alt="Warning" src="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/dark-theme/warning.svg">
@@ -145,7 +144,7 @@ Warning
 
 <br />
 
-```markdown
+```html
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/light-theme/error.svg">
   <img alt="Error" src="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/dark-theme/error.svg">
@@ -165,7 +164,7 @@ Error
 
 <br />
 
-```markdown
+```html
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/light-theme/danger.svg">
   <img alt="Danger" src="https://raw.githubusercontent.com/OpenINF/GitHub-Markdown/HEAD/blockquotes/badge/dark-theme/danger.svg">
