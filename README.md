@@ -210,15 +210,13 @@ tooltips to appear as links without being clickable, making them easier to find.
 <br />
 
 One can also create linebreaks inside tooltips by using the `&#10;` HTML
-sequence.
+entity.
 
 ```markdown
-[Example text.](## "Tooltip with
-linebreak")
+[Example text.](## "Tooltip with&#10;linebreak")
 ```
 
-[Example text.](## "Tooltip with
-linebreak")
+[Example text.](## "Tooltip with&#10;linebreak")
 
 <br /><br />
 
