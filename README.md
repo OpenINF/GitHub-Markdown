@@ -224,7 +224,7 @@ entity.
 
 <br />
 
-You can also use tooltips inside a table, like so.
+One can also use tooltips inside a table, like so.
 
 ```markdown
 |      A      |      B      |
