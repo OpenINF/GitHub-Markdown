@@ -72,8 +72,8 @@ that one has taken some care to create an interoperable Web page.
 This work, “Valid HTML5 Intrinsic Web Badge”, incorporates a derivative of
 <a href="https://www.w3.org/html/logo/#downloads">HTML5 Logo</a> by
 <a href="http://www.w3.org">World Wide Web Consortium (<abbr>W3C</abbr>)</a>,
-used under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY</a> / Coloured in, 
-resized, and optimized for compact size from the original.
+used under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY</a>, i.e.,
+colored-in, resized, and optimized for compact size from the original.
 “Valid HTML5 Intrinsic Web Badge” is licensed under <a rel="nofollow"
 class="external text" href="https://creativecommons.org/licenses/by/3.0/">CC
 BY</a> by Derek Lewis, Certified Web Developer, and high-marking college student
