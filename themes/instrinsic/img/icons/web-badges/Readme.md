@@ -64,7 +64,7 @@ that one has taken some care to create an interoperable Web page.
 ```html
 <p>
   <a href="https://validator.w3.org/check?uri=referer">
-    <img src="https://open.inf.is/assets/img/svg/valid-html5.svg" alt="Valid HTML5!" height="21" width="81" />
+    <img src="https://open.inf.is/assets/img/svg/valid-html5.svg?sanitize=true" alt="Valid HTML5!" height="21" width="81" />
   </a>
 </p>
 
