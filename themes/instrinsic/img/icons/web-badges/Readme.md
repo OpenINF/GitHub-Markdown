@@ -75,7 +75,7 @@ that one has taken some care to create an interoperable Web page.
   </a>
 </p>
 
-This work, "Valid HTML5 Intrinsic Web Badge", incorporates a derivative of
+This work, “Valid HTML5 Intrinsic Web Badge”, incorporates a derivative of
 <a href="https://www.w3.org/html/logo/#downloads">HTML5 Logo</a> by
 <a href="http://www.w3.org/">
 <abbr title="World Wide Web Consortium">W3C</abbr></a>, used under
