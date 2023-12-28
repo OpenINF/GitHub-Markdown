@@ -44,7 +44,7 @@ Badge</span>, by <a href="https://open.inf.is/DerekNonGeneric" rel="dct:creator"
 <span property="dct:title">various authors</span></a>, identified by
 <a href="https://open.inf.is/DerekNonGeneric" rel="dct:publisher"><span
 property="dct:title">Derek Lewis</span></a>, is free of known copyright
-restrictions. "Public Domain Intrinsic Web Badge" is likewise placed into the
+restrictions. “Public Domain Intrinsic Web Badge” is likewise placed into the
 Public Domain by Derek Lewis as he has dedicated all copyright interest in it
 to the Public Domain.</p>
 
