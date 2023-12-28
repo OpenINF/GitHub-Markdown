@@ -1,4 +1,4 @@
-**📕 Readme: _Intrinsic Web Badges_**
+**👁️‍🗨️ Readme: _Intrinsic Web Badges_**
 
 _Convenient showcase of content-specific theme elements used throughout_
 
