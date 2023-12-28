@@ -30,7 +30,7 @@ domain and identifies any exceptions.
 
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license" href="https://home.web.cern.ch/science/computing/birth-web/licensing-web">
-    <img src="publicdomain.svg" width="81" height="21"
+    <img src="https://open.inf.is/assets/img/svg/publicdomain.svg?sanitize=true" width="81" height="21"
       style="border-style: none;" alt="Public Domain Intrinsic Web Badge" />
   </a>
 </p>
