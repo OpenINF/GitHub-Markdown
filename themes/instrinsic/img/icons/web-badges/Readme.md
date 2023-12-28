@@ -105,7 +105,7 @@ of Artificial Intelligence based in-and-around the Magic City of Miami, Florida.
 
 <p>
   <a href="https://validator.w3.org/check?uri=referer">
-    <img src="valid-css3.svg" alt="Valid HTML5!" height="21" width="81" />
+    <img src="valid-css3.svg" alt="Valid CSS3!" height="21" width="81" />
   </a>
 </p>
 
