@@ -1,4 +1,13 @@
-# Intrinsic <a href="https://en.wikipedia.org/wiki/Web_badge">Web Badges</a>
+**📕 Readme: _Intrinsic Web Badges_**
+
+_Convenient showcase of content-specific theme elements used throughout_
+
+<br /><br />
+
+---
+
+<br />
+
 
 ## Specific Content License
 
