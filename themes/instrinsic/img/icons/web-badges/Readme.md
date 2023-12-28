@@ -19,7 +19,7 @@ The “public domain” license badge is used on documents free of known copyrig
 
 ```html
 <p xmlns:dct="http://purl.org/dc/terms/">
-  <a rel="license" href="http://servagility.org/publicdomain/">
+  <a rel="license" href="https://home.web.cern.ch/science/computing/birth-web/licensing-web">
     <img src="publicdomain.svg" width="81" height="21"
       style="border-style: none;" alt="Public Domain Intrinsic Web Badge" />
   </a>
