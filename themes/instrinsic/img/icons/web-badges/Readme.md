@@ -67,6 +67,7 @@ that one has taken some care to create an interoperable Web page.
     <img src="https://open.inf.is/assets/img/svg/valid-html5.svg?sanitize=true" alt="Valid HTML5!" height="21" width="81" />
   </a>
 </p>
+```
 
 This work, “Valid HTML5 Intrinsic Web Badge”, incorporates a derivative of
 <a href="https://www.w3.org/html/logo/#downloads">HTML5 Logo</a> by
