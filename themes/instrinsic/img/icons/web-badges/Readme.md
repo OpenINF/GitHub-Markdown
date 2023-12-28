@@ -69,6 +69,12 @@ that one has taken some care to create an interoperable Web page.
 </p>
 ```
 
+<p>
+  <a href="https://validator.w3.org/check?uri=referer">
+    <img src="https://open.inf.is/assets/img/svg/valid-html5.svg?sanitize=true" alt="Valid HTML5!" height="21" width="81" />
+  </a>
+</p>
+
 This work, “Valid HTML5 Intrinsic Web Badge”, incorporates a derivative of
 <a href="https://www.w3.org/html/logo/#downloads">HTML5 Logo</a> by
 <a href="http://www.w3.org">World Wide Web Consortium (<abbr>W3C</abbr>)</a>,
@@ -89,6 +95,12 @@ Attribution 4.0 International Deed (<abbr>CC BY 4.0 Deed</abbr>)</a>.
   </a>
 </p>
 ```
+
+<p>
+  <a href="https://validator.w3.org/check?uri=referer">
+    <img src="https://open.inf.is/assets/img/svg/valid-css3.svg?sanitize=true" alt="Valid CSS3!" height="21" width="81" />
+  </a>
+</p>
 
 This work, “Valid CSS3 Intrinsic Web Badge”, incorporates a derivative of
 <a href="https://www.w3.org/html/logo/#downloads">CSS3 & Styling Icon</a> by
