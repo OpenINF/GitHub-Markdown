@@ -74,10 +74,11 @@ This work, “Valid HTML5 Intrinsic Web Badge”, incorporates a derivative of
 <a href="http://www.w3.org">World Wide Web Consortium (<abbr>W3C</abbr>)</a>,
 used under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY</a>,
 i.e., colored-in, resized, and optimized for compact size from the original.
-“Valid HTML5 Intrinsic Web Badge” is licensed under <a rel="nofollow"
-class="external text" href="https://creativecommons.org/licenses/by/3.0/">CC
-BY</a> by Derek Lewis, Certified Web Developer, and high-marking college student
-of Artificial Intelligence based in-and-around the Magic City of Miami, Florida.
+“Valid HTML5 Intrinsic Web Badge” is licensed under
+<a href=" https://creativecommons.org/licenses/by/4.0">Creative Commons
+Attribution 4.0 International Deed (<abbr>CC BY 4.0 Deed</abbr>)</a> by Derek
+Lewis, Certified Web Developer, and high-marking college student of Artificial
+Intelligence based in-and-around the Magic City of Miami, Florida.
 
 ---
 
