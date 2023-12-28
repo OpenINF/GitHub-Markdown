@@ -92,7 +92,7 @@ Intelligence based in-and-around the Magic City of Miami, Florida.
 </p>
 ```
 
-This work -- "Valid CSS3 Intrinsic Web Badge" -- incorporates a derivative of
+This work, “Valid CSS3 Intrinsic Web Badge”, incorporates a derivative of
 <a href="https://www.w3.org/html/logo/#downloads">CSS3 & Styling Icon</a> by
 <a href="http://www.w3.org">World Wide Web Consortium (<abbr>W3C</abbr>)</a>,
 used under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY</a>,
