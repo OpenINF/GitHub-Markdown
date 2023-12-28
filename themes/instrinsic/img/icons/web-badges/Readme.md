@@ -85,9 +85,8 @@ This work, “Valid HTML5 Intrinsic Web Badge”, incorporates a derivative of
 <abbr title="World Wide Web Consortium">W3C</abbr></a>, used under
 <a rel="nofollow" class="external text"
 href="https://creativecommons.org/licenses/by/3.0/">CC BY</a> / Changed color,
-resized, and optimized for compact size from original. "Valid HTML5 Intrinsic Web Badge" is licensed under <a rel="nofollow"
-class="external text" href="https://creativecommons.org/licenses/by/3.0/">CC
-BY</a> by Derek Lewis.
+resized, and optimized for compact size from the original.
+“Valid HTML5 Intrinsic Web Badge” is licensed under <a rel="nofollow license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</a>.
 
 ---
 
