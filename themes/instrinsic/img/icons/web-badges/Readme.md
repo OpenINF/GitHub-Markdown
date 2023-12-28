@@ -94,6 +94,7 @@ of Artificial Intelligence based in-and-around the Magic City of Miami, Florida.
     <img src="https://open.inf.is/assets/img/svg/valid-css3.svg?sanitize=true" alt="Valid CSS3!" height="21" width="81" />
   </a>
 </p>
+```
 
 This work, "Valid CSS3 Intrinsic Web Badge", incorporates a derivative of
 <a href="https://www.w3.org/html/logo/#downloads">CSS3 & Styling Icon</a> by
