@@ -50,10 +50,10 @@ to the Public Domain.</p>
 
 ## Valid Web Standards
 
-The "valid" web standard badges are used on documents that successfully passed
-validation for a specific technology, using the W3C validation services. The
-image is used as a link to re-validate the document to show readers that one has
-taken some care to create an interoperable Web page.
+The “valid” web page & other web standard badges are used on documents that
+successfully passed validation for a specific technology. The W3C validation
+services image is used as a link to re-validate the document to show readers
+that one has taken some care to create an interoperable Web page.
 
 ---
 
