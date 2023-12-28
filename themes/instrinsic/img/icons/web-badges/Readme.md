@@ -37,7 +37,7 @@ public domain and identifies any exceptions.
 
 <p xmlns:dct="http://purl.org/dc/terms/">
 This work (<span property="dct:title">Public Domain Intrinsic Web
-Badge</span>, by <a href="http://www.dereklew.is/" rel="dct:creator">
+Badge</span>, by <a href="https://open.inf.is/DerekNonGeneric" rel="dct:creator">
 <span property="dct:title">Derek Lewis</span></a>), incorporates a derivative of
 <span property="dct:title">File:PD-icon.svg</span>, by
 <a href="https://commons.wikimedia.org/wiki/File:PD-icon.svg" rel="dct:creator">
