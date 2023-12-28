@@ -39,7 +39,7 @@ domain and identifies any exceptions.
 This work (<span property="dct:title">Public Domain Intrinsic Web
 Badge</span>, by <a href="https://open.inf.is/DerekNonGeneric" rel="dct:creator">
 <span property="dct:title">Derek Lewis</span></a>), incorporates a derivative of
-<span property="dct:title">File:PD-icon.svg</span>, by
+<span property="dct:title"><code>File:PD-icon.svg</code></span>, by
 <a href="https://commons.wikimedia.org/wiki/File:PD-icon.svg" rel="dct:creator">
 <span property="dct:title">various authors</span></a>, identified by
 <a href="https://open.inf.is/DerekNonGeneric" rel="dct:publisher"><span
