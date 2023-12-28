@@ -11,7 +11,9 @@ _Convenient showcase of content-specific theme elements used throughout_
 
 ## Specific Content License Web Badge
 
-The “public domain” license badge is used on documents free of known copyright. The image is a link to a document that clarifies the meaning of the public domain and identifies any exceptions.
+The “public domain” license badge is used on documents free of known copyright.
+The image is a link to a document that clarifies the meaning of the public
+domain and identifies any exceptions.
 
 ---
 
